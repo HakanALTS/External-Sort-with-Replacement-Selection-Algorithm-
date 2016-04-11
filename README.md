@@ -1,1 +1,2 @@
-# External-Sort-with-Replacement-Selection-Algorithm-
+# External Sort with Replacement Selection Algorithm C code
+
